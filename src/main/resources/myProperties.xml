@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <teachers>
+        <teacher>
+            <name>shuchuanbiao</name>
+            <age>25</age>
+        </teacher>
+        <teacher>
+            <name>zoushifan</name>
+            <age>25</age>
+        </teacher>
+    </teachers>
+    <students>
+        <student>
+            <name>liling</name>
+            <age>14</age>
+        </student>
+        <student>
+            <name>xieqingping</name>
+            <age>12</age>
+        </student>
+    </students>
+</school>

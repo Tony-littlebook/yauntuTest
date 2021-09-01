@@ -1,4 +1,4 @@
-package com.cloud.test;
+package com.cloud.bean;
 
 import java.util.List;
 import com.google.common.collect.Lists;
